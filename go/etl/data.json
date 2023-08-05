@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Muhovist",
+                "last": "Cheremshinskiy"
+            },
+            "location": {
+                "street": {
+                    "number": 3802,
+                    "name": "Dokuchaievskiy tupik"
+                },
+                "city": "Pervomayskiy",
+                "state": "Harkivska",
+                "country": "Ukraine",
+                "postcode": 26532,
+                "coordinates": {
+                    "latitude": "73.8380",
+                    "longitude": "-82.3751"
+                },
+                "timezone": {
+                    "offset": "-7:00",
+                    "description": "Mountain Time (US & Canada)"
+                }
+            },
+            "email": "muhovist.cheremshinskiy@example.com",
+            "login": {
+                "uuid": "9e264ac2-66e5-4dcc-aff8-565c44ed48af",
+                "username": "yellowleopard410",
+                "password": "wombat",
+                "salt": "Ay6t1XVA",
+                "md5": "5fa00f9807c6aad1cc912ee170154932",
+                "sha1": "0f2fa3ac01d1465fe664149e057880c1977566a6",
+                "sha256": "ce1b751525400dc1b69b4c0cd2b72bb58dd72309bb69d80a5d6ad4ad0027c195"
+            },
+            "dob": {
+                "date": "1967-11-30T20:37:06.491Z",
+                "age": 55
+            },
+            "registered": {
+                "date": "2009-03-22T06:46:05.797Z",
+                "age": 14
+            },
+            "phone": "(067) H98-2569",
+            "cell": "(068) F93-5792",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/75.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+            },
+            "nat": "UA"
+        }
+    ],
+    "info": {
+        "seed": "d322e1d5a7a88bea",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
