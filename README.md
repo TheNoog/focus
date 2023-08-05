@@ -47,6 +47,13 @@ sudo apt install wine git nano htop build-essential neofetch
 
 # PyLint
 
-Generate file -> 
+Generate file -> pylint --generate-rcfile > .pylintrc
 
 Additions ->
+
+
+# Conda
+
+conda create --name cirq -c conda-forge python=3.11
+conda create --name pennylane -c conda-forge python=3.11
+conda create --name qiskit -c conda-forge python=3.11

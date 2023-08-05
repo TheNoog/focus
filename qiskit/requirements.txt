@@ -1,0 +1,4 @@
+matplotlib 
+pylatexenc
+qiskit 
+qiskit_aer
