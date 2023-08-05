@@ -37,3 +37,6 @@ go: ## Install Go
 
 java: ## Install Java
 	./init/init_java17.sh
+
+microk8s_up: ## Setup Microk8s
+	./init/microk8s_up.sh

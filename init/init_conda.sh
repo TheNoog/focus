@@ -63,10 +63,10 @@ sudo apt install -y python3-pip
 
 # Install Miniconda and add to path
 MINICONDA_VERSION=Miniconda3-py310_22.11.1-1-Linux-x86_64.sh
-wget -c https://repo.anaconda.com/miniconda/${MINICONDA_VERSION} -P /tmp
-sudo chmod +x /tmp/${MINICONDA_VERSION}
-sudo /tmp/${MINICONDA_VERSION} -u
-rm /tmp/${MINICONDA_VERSION}
+wget -c https://repo.anaconda.com/miniconda/${MINICONDA_VERSION}
+chmod +x ${MINICONDA_VERSION}
+./${MINICONDA_VERSION} -u
+rm ${MINICONDA_VERSION}
 
 # Add to path - /opt/conda
 echo 'export PATH="/opt/conda/bin:$PATH"' >> ~/.bashrc
@@ -74,7 +74,7 @@ source ~/.bashrc
 
 
 # venv setup
-pip3 install virtualenv
+# pip3 install virtualenv
 # python3 -m venv ~/python3.11
 # python3.11 -m pip install --upgrade pip
 # To run in venv 

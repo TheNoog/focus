@@ -31,6 +31,14 @@ Host github.com
   IdentityFile ~/.ssh/id_rsa
 EOF
 
+<br />
+
+# Git Setup
+
+  git config --global user.email "you@example.com"
+  git config --global user.name $USER
+
+<br />
 
 # Installs
 
