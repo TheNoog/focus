@@ -43,3 +43,10 @@ EOF
 # Installs
 
 sudo apt install wine git nano htop build-essential neofetch
+
+
+# PyLint
+
+Generate file -> 
+
+Additions ->
