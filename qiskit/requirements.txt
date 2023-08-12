@@ -2,3 +2,7 @@ matplotlib
 pylatexenc
 qiskit 
 qiskit_aer
+
+numpy
+pandas
+polars
