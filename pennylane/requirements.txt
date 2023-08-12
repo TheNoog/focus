@@ -1,1 +1,12 @@
 pennylane
+matplotlib
+numpy
+pandas
+polars
+pylab-sdk
+
+# extra installs required as dependent packages
+FuzzyTM
+blosc2==2.0.0
+cython
+sentencepiece

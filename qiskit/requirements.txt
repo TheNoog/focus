@@ -2,7 +2,11 @@ matplotlib
 pylatexenc
 qiskit 
 qiskit_aer
-
+qiskit-machine-learning
+qiskit-machine-learning[torch]
+qiskit-machine-learning[sparse]
+qiskit_algorithms
+# ipykernel
 numpy
 pandas
 polars
