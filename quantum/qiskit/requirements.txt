@@ -10,3 +10,7 @@ qiskit_algorithms
 numpy
 pandas
 polars
+torch
+torchvision
+numpy
+ipykernel
